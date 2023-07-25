@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomTextField.qml</file>
+        <file>images/minimize_icon.svg</file>
+        <file>images/close_icon.svg</file>
+        <file>images/free-icon-send-8084272.png</file>
+        <file>Message.qml</file>
+    </qresource>
+</RCC>
